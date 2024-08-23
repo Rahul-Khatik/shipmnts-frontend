@@ -1,1 +1,1 @@
-export const baseUrl = "https://shipmnts-backend-0k3f.onrender.com";
+export const baseUrl = "http://localhost:1234/api";
